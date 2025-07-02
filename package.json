@@ -1,0 +1,28 @@
+{
+  "name": "webscrap",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "axios-cookiejar-support": "^5.0.3",
+    "cheerio": "^1.0.0",
+    "fetch-cookie": "^3.0.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.11.3",
+    "node-fetch": "^3.3.2",
+    "puppeteer": "^23.5.3",
+    "request": "^2.88.2",
+    "tough-cookie": "^5.0.0",
+    "xlsx": "^0.18.5"
+  }
+}
